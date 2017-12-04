@@ -1,0 +1,2 @@
+hej hej, detta är min text om projekt-teori
+som kanske senare kan bli till något mer, kanske är inte Git det bästa sättet att dela arbetet på en text, kanske är GoogleDocs bättre till det !!!
