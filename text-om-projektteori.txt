@@ -2,4 +2,12 @@ hej hej, detta är min text om projekt-teori
 som kanske senare kan bli till något mer, kanske är inte Git det bästa sättet att dela arbetet på en text, kanske är GoogleDocs bättre till det !!!
 
 Nu lägger jag till några rader i Atom, jag har öppnat filen i Finder,
+
+Nu har jag branchat, och ska skriva några rader om agile och se om det bara uppdateras på den nya branchen
+
+
+Nu gör jag ytterligare några ändringar
+
+Vi ändrr vidare i den lokala filen som jag tror att är i den nya branchen
+
   
