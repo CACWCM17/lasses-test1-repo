@@ -1,13 +1,22 @@
-hej hej, detta är min text om projekt-teori
-som kanske senare kan bli till något mer, kanske är inte Git det bästa sättet att dela arbetet på en text, kanske är GoogleDocs bättre till det !!!
+Tja hej, detta är min text om projekt-teori
+Nu tar jag bort och ändrar rad 2 få se vad som händer då då
+arbetet på en text, kanske är GoogleDocs bättre till det !!!
 
-Nu lägger jag till några rader i Atom, jag har öppnat filen i Finder,
+Senare  lägger jag till några rader i Atom, jag har öppnat filen i Finder,
 
 Nu har jag branchat, och ska skriva några rader om agile och se om det bara uppdateras på den nya branchen
 
-
+det verkar som att den ersätter hela rader, kanske är den inte gjord för att reigera text
 Nu gör jag ytterligare några ändringar
 
 Vi ändrr vidare i den lokala filen som jag tror att är i den nya branchen
+
+
+Vi går vidare kl 21.23 och gör ändringar i den nya branchen
+
+
+Nu har vi skapat ytterligare en branch ännu djupare
+
+one branch deeper
 
   
